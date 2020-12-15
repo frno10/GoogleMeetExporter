@@ -1,2 +1,1 @@
-# GoogleMeetExporter
-Export calendar events that contain attached recordings into csv
+https://developers.google.com/calendar/quickstart/dotnet?authuser=0
